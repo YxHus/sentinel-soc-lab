@@ -100,6 +100,7 @@ The correlated Windows security logs confirm a real RDP session:
 
 ## 📁 Repository Structure
 
+
 .
 ├── kql_rules/
 │ ├── brute_force_detection.kql
@@ -120,7 +121,7 @@ The correlated Windows security logs confirm a real RDP session:
 ├── reports/
 │ └── incident_summary.md
 └── README.md
----
+
 
 ## ✍️ Author
 
