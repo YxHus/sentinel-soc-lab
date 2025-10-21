@@ -98,7 +98,30 @@ The correlated Windows security logs confirm a real RDP session:
 
 ---
 
-## 📁 Repository Structure ``` . ├── kql_rules/ │ ├── brute_force_detection.kql │ └── brute_force_test.kql ├── scripts/ │ └── generate_test_events.ps1 ├── screenshots/ │ ├── 1_detection_rule/ │ │ ├── sentinel_lab_dcr.png │ │ ├── sentinel_lab_dcr_overview.png │ │ ├── sentinel_rule_summary.png │ │ └── sentinel_rule_logic.png │ ├── 2_incident/ │ │ ├── incident_overview.png │ │ └── incident_alert.png │ └── 3_logs/ │ └── log_query_results.png ├── reports/ │ └── incident_summary.md └── README.md ```
+## 📁 Repository Structure
+
+```text
+.
+├── kql_rules/
+│   ├── brute_force_detection.kql
+│   └── brute_force_test.kql
+├── scripts/
+│   └── generate_test_events.ps1
+├── screenshots/
+│   ├── 1_detection_rule/
+│   │   ├── sentinel_lab_dcr.png
+│   │   ├── sentinel_lab_dcr_overview.png
+│   │   ├── sentinel_rule_summary.png
+│   │   └── sentinel_rule_logic.png
+│   ├── 2_incident/
+│   │   ├── incident_overview.png
+│   │   └── incident_alert.png
+│   └── 3_logs/
+│       └── log_query_results.png
+├── reports/
+│   └── incident_summary.md
+└── README.md
+
 
 
 ## ✍️ Author
