@@ -120,9 +120,6 @@ The correlated Windows security logs confirm a real RDP session:
 ├── reports/
 │ └── incident_summary.md
 └── README.md
-
-
-
 ---
 
 ## ✍️ Author
